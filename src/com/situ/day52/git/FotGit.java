@@ -4,4 +4,5 @@ public class FotGit {
 	public void firstAdd() {
 		
 	}
+	public void secondAdd() {}
 }
